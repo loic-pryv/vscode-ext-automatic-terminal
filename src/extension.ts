@@ -6,7 +6,7 @@ import * as vscode from 'vscode';
 // your extension is activated the very first time the command is executed
 export function activate(context: vscode.ExtensionContext) {
 	vscode.commands.executeCommand('workbench.action.terminal.toggleTerminal');
-	// vscode.window.showInformationMessage('Terminal automatically opened by Pumbaa');
+	// vscode.window.showInformationMessage('Terminal automatically opened');
 }
 
 // this method is called when your extension is deactivated

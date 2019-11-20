@@ -10,6 +10,12 @@ None
 
 ## Installation
 
+### From VSCode
+
+Simply click the Install button
+
+### From github
+
 Download automatic-terminal-X.Y.Z.vsix
 
 In VSCode, navigate to File -> Preferences -> Extensions
@@ -25,6 +31,10 @@ Voilà :)
 ## Known Issues
 
 ## Release Notes
+
+### 1.0.1
+
+First publishing
 
 ### 1.0.0
 
