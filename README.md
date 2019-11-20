@@ -1,4 +1,4 @@
-# autmatic-terminal README
+# automatic-terminal README
 
 ## Features
 
