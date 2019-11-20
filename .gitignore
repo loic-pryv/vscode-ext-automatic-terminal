@@ -1,4 +1,4 @@
 out
 node_modules
 .vscode-test/
-./myREADME.md
+myREADME.md
